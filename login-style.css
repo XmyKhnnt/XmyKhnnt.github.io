@@ -55,6 +55,7 @@ section {
     height: 370px;
     padding: 20px;
     border-radius: 7px;
+    z-index: 9999999;
 }
 
 body {
