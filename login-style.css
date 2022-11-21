@@ -154,6 +154,7 @@ div.logo .name-part-two {
 .images-albums {
     display: inline-block;
     position:absolute;
+    left:40%;
 }
 .images-albums  img{
     height: 300px;
