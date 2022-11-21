@@ -154,12 +154,13 @@ div.logo .name-part-two {
 .images-albums {
     display: inline-block;
     position:absolute;
-    left:40%;
+    
 }
 .images-albums  img{
     height: 300px;
     position: relative;
     margin: -20px;
+    left:40%;
 }
 
 section, div {
